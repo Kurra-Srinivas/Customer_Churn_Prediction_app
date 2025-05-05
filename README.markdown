@@ -39,3 +39,7 @@ This project develops a machine learning model to predict customer churn using P
 The app is deployed on Streamlit Community Cloud. Access it at https://customerchurnpredictionapp-eqfjc6rniyydkr5xkayhze.streamlit.app/
 
 Build and deploy your churn prediction model with ease! 🚀
+
+For any help,feel free to reach out to me :)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/kurra-srinivas-31727420b/)
+- **Instagram**: [Follow me](https://www.instagram.com/_srinivas.kurra/profilecard/?igsh=MWxuNnNpNXc2anhhMg==)
