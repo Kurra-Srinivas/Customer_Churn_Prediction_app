@@ -9,7 +9,7 @@ This project develops a machine learning model to predict customer churn using P
 - **Feature Engineering**: Process and create features to improve model performance.
 - **Machine Learning**: Train and optimize multiple models (4–5) using scikit-learn with GridSearchCV for hyperparameter tuning.
 - **Streamlit App**: Deploy an interactive web app to predict churn based on user inputs.
-- **Dataset**: Expects a churn dataset (e.g., `churn_data.csv`) with features like tenure, charges, and a binary churn column.
+- **Dataset**: Expects a churn dataset (https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis) with features like tenure, charges, and a binary churn column.
 
 ## Tools and Dependencies
 - **Python Libraries**:
@@ -35,6 +35,7 @@ This project develops a machine learning model to predict customer churn using P
 - `data/churn_data.csv`: Sample or user-provided dataset.
 - `requirements.txt`: List of dependencies.
 
-### Deployed Streamlit App The app is deployed on Streamlit Community Cloud. Access it at https://fraud-detection-app-taqhypmjn8savxewsib3yw.streamlit.app/.
+### Deployed Streamlit App
+The app is deployed on Streamlit Community Cloud. Access it at https://customerchurnpredictionapp-eqfjc6rniyydkr5xkayhze.streamlit.app/
 
 Build and deploy your churn prediction model with ease! 🚀
