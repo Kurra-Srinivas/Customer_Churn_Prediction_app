@@ -1,3 +1,4 @@
+![Customer churn prediction App](https://github.com/Kurra-Srinivas/Customer_Churn_Prediction_app/blob/main/Project%20img.png)
 # Customer Churn Prediction ML Project with Streamlit
 
 ## Overview
@@ -33,5 +34,7 @@ This project develops a machine learning model to predict customer churn using P
 - `app.py`: Streamlit app for deploying the churn prediction model.
 - `data/churn_data.csv`: Sample or user-provided dataset.
 - `requirements.txt`: List of dependencies.
+
+### Deployed Streamlit App The app is deployed on Streamlit Community Cloud. Access it at https://fraud-detection-app-taqhypmjn8savxewsib3yw.streamlit.app/.
 
 Build and deploy your churn prediction model with ease! 🚀
