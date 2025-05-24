@@ -40,8 +40,9 @@ The app is deployed on Streamlit Community Cloud. Access it at https://customerc
 
 Build and deploy your churn prediction model with ease! 🚀
 
-For any help,feel free to reach out to me :)
+For any help, feel free to reach out to me 🙂
 
-- **Email**:[Drop a Mail](srinivaskurra886@gmail.com)
+- **Email**: [Drop a Mail](mailto:srinivaskurra886@gmail.com)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/kurra-srinivas-31727420b/)
 - **Instagram**: [Follow me](https://www.instagram.com/_srinivas.kurra/profilecard/?igsh=MWxuNnNpNXc2anhhMg==)
+
